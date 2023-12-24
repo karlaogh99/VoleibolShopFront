@@ -1,6 +1,6 @@
 # Tienda de voleibol
 
-[![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](https://github.com/karlaogh99/ShopReact)
+[![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](https://github.com/karlaogh99/VoleibolShopFront)
 
 ## Descripción
 
